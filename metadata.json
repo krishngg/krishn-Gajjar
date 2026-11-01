@@ -1,0 +1,6 @@
+{
+  "name": "Gir Kathiyavadi - Gujarati Thali",
+  "description": "Authentic Pure Vegetarian Gujarati Unlimited Thali & Saurashtra cuisine in Kadi, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
